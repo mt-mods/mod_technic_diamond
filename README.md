@@ -1,1 +1,2 @@
+[![ContentDB](https://content.minetest.net/packages/PrairieWind/technic_diamond/shields/title/)](https://content.minetest.net/packages/PrairieWind/technic_diamond/) [![ContentDB](https://content.minetest.net/packages/PrairieWind/technic_diamond/shields/downloads/)](https://content.minetest.net/packages/PrairieWind/technic_diamond/)
 # minetest-technic_diamond-mod A mod that adds the ability to grind diamonds in technic. Players can also turn coal dust into diamonds or back into coal. WARNING: This mod may cause inflation on economy servers.
