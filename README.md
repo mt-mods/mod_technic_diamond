@@ -1,1 +1,1 @@
-# minetest-technic_diamond
+# minetest-technic_diamond-mod A mod that adds the ability to grind diamonds in technic. Players can also turn coal dust into diamonds or back into coal. WARNING: This mod may cause inflation on economy servers.
