@@ -4,4 +4,4 @@ technic.register_grinder_recipe({ input = {"default:diamond"}, output = {"techni
 technic.register_compressor_recipe({ input = {"technic_diamond:diamond_dust"}, output = {"default:diamond"}})
 
 technic.register_compressor_recipe({ input = {"technic:coal 10"}, output = {"default:diamond"}})
-technic.register_compressor_recipe({ input = {"technic:coal_dust"}, input = {"default:coal_lump"}})
+technic.register_compressor_recipe({ input = {"technic:coal_dust"}, output = {"default:coal_lump"}})
